@@ -19,7 +19,7 @@ python server.py
 ## Remarks
 * The server uses Basic Authentication with a single user. Only use this feature for developing/testing.
 
-##c onfig.py
+## config.py
 For now the config.py file contains the configuration parameters
 
 ''' python
