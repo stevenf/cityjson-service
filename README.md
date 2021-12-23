@@ -22,7 +22,7 @@ python server.py
 ## config.py
 For now the config.py file contains the configuration parameters
 
-''' python
+```python
 
 #webservice
 PORT=<port> #port to run the webservice on.
@@ -50,4 +50,4 @@ DB_TABLE_POLYHEDRALS="table to store uploaded CityJSON geometry as 3D Polyhedral
 #used for basic authentication
 USER="user"
 PASSWORD="password"
-''' 
+```
