@@ -4,7 +4,7 @@ Experimental python service to:
 * store/retrieve CityJSON  
 * store CityJSON geometries in a Postgres/PostGIS database
 
-##Installation
+## Installation
 Download SketchUp SDK for Windows from https://extensions.sketchup.com/sketchup-sdk
 Copy SketchUp.dll and SketchUpCommonPreferences to folder
 
@@ -13,16 +13,16 @@ or alternatively, go to https://github.com/RedHaloStudio/Sketchup_Importer/relea
 
 
 
-##Execution
+## Execution
 python server.py
 
-##Remarks
+## Remarks
 * The server uses Basic Authentication with a single user. Only use this feature for developing/testing.
 
-##config.py
+##c onfig.py
 For now the config.py file contains the configuration parameters
 
-'''python
+''' python
 
 #webservice
 PORT=<port> #port to run the webservice on.
